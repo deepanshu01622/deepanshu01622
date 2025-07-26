@@ -56,34 +56,6 @@
 
 ---
 
-### 💻 Dynamic Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/deepanshu01622/your-project-1">
-        <img src="https://img.icons8.com/color/96/project-layout.png" width="80"><br/>
-        <strong>Portfolio Website</strong>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/deepanshu01622/your-project-2">
-        <img src="https://img.icons8.com/color/96/google-docs.png" width="80"><br/>
-        <strong>BCA Notes Site</strong>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/deepanshu01622/your-project-3">
-        <img src="https://img.icons8.com/color/96/cloud.png" width="80"><br/>
-        <strong>Cloud Resume (Coming)</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-
 
 ### 📊 GitHub Profile Metrics
 
