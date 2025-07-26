@@ -9,10 +9,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Learning: **Python, HTML, CSS, JS, AWS**
-- 👯 Collaborating on: **Cloud Native Projects**
+- 🌱 Learning: Python, HTML, CSS
 - 📬 Email: **deepanshukapri4@gmail.com**
-- 🎯 Goal: Become a **Top Frontend + Cloud Dev**
 
 ---
 
@@ -85,13 +83,7 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deepanshu01622/deepanshu01622/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 📊 GitHub Profile Metrics
 
