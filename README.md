@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&center=true&vCenter=true&width=600&lines=Hi+I'm+Deepanshu+Kapri;Frontend+Developer+from+India;Learning+Python+%26+Modern+Web+Development" />
 </h1>
@@ -9,7 +8,16 @@
 
 ---
 
+<!-- 🖼️ Banner Thumbnail -->
+<p align="center">
+  <img src="https://i.ibb.co/Sdt6xKh/github-banner.png" alt="Deepanshu Kapri Banner" />
+</p>
+
+---
+
 ### 🧑‍💻 About Me
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
 - 🎓 BCA Student | Frontend & Python learning 
 - 🌱 Currently focused on: Python, HTML, CSS, and GitHub Projects  
 - 🚀 Building real-world mini projects to sharpen my skills  
@@ -63,6 +71,22 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu01622&theme=github_dark" />
+</p>
+
+---
+
+### 🐍 Watch my contributions get eaten by a Snake!
+
+<p align="center">
+  <img src="https://github.com/deepanshu01622/deepanshu01622/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 👨‍💻 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
 </p>
 
 ---
